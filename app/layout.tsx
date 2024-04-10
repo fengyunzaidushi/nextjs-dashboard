@@ -1,3 +1,5 @@
+
+import { ClerkProvider } from '@clerk/nextjs'
 import '@/app/ui/global.css';
 import { inter } from '@/app/ui/fonts';
 
